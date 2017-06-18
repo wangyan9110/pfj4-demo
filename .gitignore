@@ -1,0 +1,12 @@
+*.name
+*.class
+*.iml
+.idea/
+target/
+.settings/
+.classpath
+.project
+.DS_Store
+.svn/
+logs/
+d:\mvn/
